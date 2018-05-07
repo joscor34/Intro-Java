@@ -1,1 +1,1 @@
-En este repositorio se va a guardar todo lo que he aprendido en Java
+En este repositorio se va a guardar todo lo que hemos aprendido en Java
